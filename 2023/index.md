@@ -49,7 +49,7 @@ layout: home
             <td>1</td>
             <td>20-Feb</td>
             <td>Introduction<br>Untyped arithmetic operations</td>
-            <td>Zhao (Wang)</td>
+            <td>Zhao</td>
         </tr>
       
     </tbody>
