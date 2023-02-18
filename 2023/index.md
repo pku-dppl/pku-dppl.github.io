@@ -4,9 +4,8 @@ layout: home
 
 ## 课程信息
 
-燕园：二教 311<br>
-昌平：教学楼 202<br>
-时间：第1周-第16周 星期三 第10-12节
+地点：昌平教学楼 201<br>
+时间：第1周-第16周 星期一 第7-9节
 
 ## 课程大纲
 
@@ -48,100 +47,11 @@ layout: home
     <tbody>
         <tr>
             <td>1</td>
-            <td>23-Feb</td>
+            <td>20-Feb</td>
             <td>Introduction<br>Untyped arithmetic operations</td>
             <td>Hu (Zhao)</td>
         </tr>
-       <tr>
-            <td>2</td>
-            <td>2-Mar</td>
-            <td>OCaml</td>
-            <td>Zhao</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>9-Mar</td>
-            <td>Lambda Calculus<br>Nameless Representation</td>
-            <td>Zhao</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>16-Mar</td>
-            <td>Type Basics<br>Simple Typed lambda Calculus<br>Simply Extensions</td>
-            <td>Zhao</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>23-Mar</td>
-            <td>In-class Practice</td>
-            <td>Zhao/TA</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>30-Mar</td>
-            <td>Reference</td>
-            <td>Zhao</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>6-Apr</td>
-            <td>Exception</td>
-            <td>Zhao</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>13-Apr</td>
-            <td>Subtyping</td>
-            <td>Zhao</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>20-Apr</td>
-            <td>Middle Test (+ Check project)</td>
-            <td>Zhao/Hu</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>27-Apr</td>
-            <td>Case Study: Imperative Objects<br>Case Study: Featherweight Java</td>
-            <td>Hu</td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>4-May</td>
-            <td>May Festival (No class)</td>
-            <td>/</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>11-May</td>
-            <td>In-class Practice</td>
-            <td>Hu/TA</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>18-May</td>
-            <td>Recursive Types<br>Metatheory of Recursive Types</td>
-            <td>Hu</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>25-May</td>
-            <td>Type Reconstruction<br>Universal Types</td>
-            <td>Hu</td>
-        </tr>
-        <tr>
-            <td>15</td>
-            <td>1-Jun</td>
-            <td>Existential Types</td>
-            <td>Hu</td>
-        </tr>
-        <tr>
-            <td>16</td>
-            <td>8-Jun</td>
-            <td>Final Presentation</td>
-            <td>Hu/Zhao</td>
-        </tr>
+      
     </tbody>
 </table>
 
