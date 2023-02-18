@@ -7,8 +7,15 @@ instructors:
     title: 副教授
     profile_pic: /_images/instructors/Haiyan-Zhao.jpg
     webpage: http://sei.pku.edu.cn/~zhhy/
+  王迪:
+    title: 助理教授
+    profile_pic: /_images/instructors/Di-Wang.jpg
+    webpage: https://stonebuddha.github.io/
 
 teaching_assistants:
   张星:
     profile_pic: /_images/anonymous.jpg
     email: zhangstar@stu.pku.edu.cn
+  唐丽娟:
+    profile_pic: /_images/anonymous.jpg
+    email: lijuan_tang@stu.pku.edu.cn

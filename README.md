@@ -1,2 +1,2 @@
-# PL
-For the PL class in Peking University in 2022
+# DPPL
+For the DPPL class in Peking University
