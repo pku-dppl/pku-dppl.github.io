@@ -73,7 +73,7 @@ layout: home
             <td>5</td>
             <td>20-Mar</td>
             <td>In-class Practice</td>
-            <td>Zhao/TA</td>
+            <td>Zhao</td>
         </tr>
         <tr>
             <td>6</td>
@@ -90,7 +90,7 @@ layout: home
         <tr>
             <td>8</td>
             <td>10-Apr</td>
-            <td>Subtyping</td>
+            <td>Subtyping<br>Metatheory Subtyping</td>
             <td>Zhao</td>
         </tr>
         <tr>
@@ -108,14 +108,14 @@ layout: home
         <tr>
             <td>11</td>
             <td>1-May</td>
-            <td>May Day (No class)</td>
+            <td>May Festival (No class)</td>
             <td>/</td>
         </tr>
         <tr>
             <td>12</td>
             <td>8-May</td>
             <td>In-class Practice</td>
-            <td>Wang/TA</td>
+            <td>Wang</td>
         </tr>
         <tr>
             <td>13</td>
