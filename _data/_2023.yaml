@@ -1,4 +1,16 @@
 instructors: [赵海燕, 王迪]
 teaching_assistants: [唐丽娟]
 
-lectures: []
+lectures:
+- teacher: 赵海燕
+  date: 2022/02/20
+  slides:
+  - title: "Introduction"
+    link: zhao_courseOverview_ch1.pdf
+  - title: "Untyped arithmetic operations"
+    link: hu_ch3.pdf
+  assignment:
+    descriptions:
+    - text: 安装 OCaml 
+    - text: 3.5.13 & 3.5.16
+    due: 2022/03/02
