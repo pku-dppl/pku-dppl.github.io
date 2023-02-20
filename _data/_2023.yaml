@@ -8,7 +8,7 @@ lectures:
   - title: "Introduction"
     link: zhao_courseOverview_ch1.pdf
   - title: "Untyped arithmetic operations"
-    link: hu_ch3.pdf
+    link: zhao_ch3.pdf
   assignment:
     descriptions:
     - text: 安装 OCaml 
