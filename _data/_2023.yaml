@@ -24,3 +24,12 @@ lectures:
     - text: 熟悉 OCaml 
     - text: 完成课件最后一页的练习
     due: 2023/03/06
+- teacher: 赵海燕
+  date: 2023/03/06
+  slides:
+  - title: "The Untyped Lambda Calculus"
+    link: zhao_ch5_2023.pdf
+  assignment:
+    descriptions:
+    - text: 5.2.7 & 5.3.6
+    due: 2023/03/13
