@@ -33,3 +33,16 @@ lectures:
     descriptions:
     - text: 5.2.7 & 5.3.6
     due: 2023/03/13
+- teacher: 赵海燕
+  date: 2023/03/13
+  slides:
+  - title: "Nameless Representation of Terms"
+    link: zhao_ch6_2023.pdf
+  - title: "Typed Arithmatic Expressions"
+    link: zhao_ch8_2023.pdf
+  - title: "Simply Typed Lambda-Calculus"
+    link: zhao_ch9_2023.pdf
+  assignment:
+    descriptions:
+    - text: 6.2.5 & 8.3.6 & 9.3.9
+    due: 2023/03/20
