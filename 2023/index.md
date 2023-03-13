@@ -72,13 +72,13 @@ layout: home
         <tr>
             <td>5</td>
             <td>20-Mar</td>
-            <td>In-class Practice</td>
+            <td>Reference</td>
             <td>Zhao</td>
         </tr>
         <tr>
             <td>6</td>
             <td>27-Mar</td>
-            <td>Reference</td>
+            <td>Class Project</td>
             <td>Zhao</td>
         </tr>
         <tr>
