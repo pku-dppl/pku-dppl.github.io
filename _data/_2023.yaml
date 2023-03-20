@@ -46,3 +46,12 @@ lectures:
     descriptions:
     - text: 6.2.5 & 8.3.6 & 9.3.9
     due: 2023/03/20
+- teacher: 赵海燕
+  date: 2023/03/20
+  slides:
+  - title: "Simply extension"
+    link: zhao_ch11_2023.pdf
+  assignment:
+    descriptions:
+    - text: 11.5.2 & 11.12.1
+    due: 2023/03/27
