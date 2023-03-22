@@ -1,14 +1,20 @@
 instructors:
   胡振江:
+    name_en: Zhenjiang Hu
     title: 教授
+    title_en: Professor
     profile_pic: /_images/instructors/Zhenjiang-Hu.jpg
     webpage: http://sei.pku.edu.cn/~hu/
   赵海燕:
+    name_en: Haiyan Zhao
     title: 副教授
+    title_en: Associate Professor
     profile_pic: /_images/instructors/Haiyan-Zhao.jpg
     webpage: http://sei.pku.edu.cn/~zhhy/
   王迪:
+    name_en: Di Wang
     title: 助理教授
+    title_en: Assistant Professor
     profile_pic: /_images/instructors/Di-Wang.jpg
     webpage: https://stonebuddha.github.io/
     
@@ -24,9 +30,11 @@ instructors_english:
 
 teaching_assistants:
   张星:
+    name_en: Xing Zhang
     profile_pic: /_images/anonymous.jpg
     email: zhangstar@stu.pku.edu.cn
   唐丽娟:
+    name_en: Lijuan Tang
     profile_pic: /_images/anonymous.jpg
     email: lijuan_tang@stu.pku.edu.cn
 
