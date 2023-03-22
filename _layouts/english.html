@@ -5,7 +5,7 @@ layout: default
 <div class="home">
     {%- include which_course.html -%}
 
-    <h1>{{ course_name }} <span style="font-size: 20px;color: #0006;">/ {{ course_semester }} </span></h1>
+    <h1>{{ course_name_name }} <span style="font-size: 20px;color: #0006;">/ {{ course_semester_english }} </span></h1>
 
     {% include announcements.html %}
     <br>
@@ -21,9 +21,9 @@ layout: default
         {% for year in this_course.years %}
         <li>
             {% if year != course_year %}
-            <a href="/{{ year }}">{{ year }}{{ this_course.semester }}</a>
+            <a href="/{{ year }}">{{ year }}{{ this_course.english_semester }}</a>
             {% else %}
-            {{ year }}{{ this_course.semester }}
+            {{ year }}{{ this_course.english_semester }}
             {% endif %}
         </li>
         {% endfor %}
