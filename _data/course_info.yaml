@@ -3,21 +3,25 @@ semester: 春
 english_name: Design Principles of Programming Languages
 english_semester: Spring
 years: [2022, 2023]
+description_english: |
+  New programming languages have been emerging constantly. How do people propose the design of those languages? How do people formulate new high-level language features? Do various programming paradigms---such as object-oriented programming, functional programming, and generic programming---share a common theoretical foundation? This course will give an answer to those questions from the perspective of type theory.
+  Type theory is the core of many principles and methodologies that guide programming-language design. In modern programming languages, type annotations provide a basic means to avoid programming errors, and type theory provides characterizations of well-behaved type systems and methods for formulating complex types. This course will teach programming-language theory and organize around type theory.
+  Through this course, students can acquire a solid theoretical foundation and practical ability in the area of programming languages, as well as become capable of conducting programming-language-related research and designing new programming languages.
 description: |
   新兴的程序设计语言层出不穷，这些语言是如何设计出来的？主流语言中不断扩展出新的高级语言特征，这些特征是如何定义的？面向对象、函数语言、泛型编程等新型编程模型是否有共通的理论基础？本课程将揭示这些问题的答案。类型理论是指导编程语言的设计的一系列原理和方法的核心。类型声明是现代语言避免编程错误的一个基本手段，而类型理论阐释了一个良好的类型系统应该具有的特征和复杂类型的定义方法。本课程将围绕类型理论这个核心组织和讲授程序设计语言的理论。希望通过本课程的学习，使得同学们在编程语言领域具备扎实的理论功底和实践能力，为开展程序语言相关学术研究打下基础，胜任设计新语言的任务。
 nav:
 - url: /
   name: 主页
   icon_class: fa fa-home fa-lg
-# - url: /schedule.html
-#   name: 课程计划
-#   icon_class: fas fa-calendar-alt
+- url: /english.html
+  name: Homepage
+  icon_class: fas fa-calendar-alt
 - url: /lectures.html
   name: 课程讲义
   icon_class: fas fa-book-reader
 - url: /assignments.html
   name: 作业
   icon_class: fas fa-user-graduate
-# - url: /english.html
-#   name: English
+# - url: /material.html
+#   name: 材料
 #   icon_class: fas fa-book
