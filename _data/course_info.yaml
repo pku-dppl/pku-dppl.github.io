@@ -18,6 +18,6 @@ nav:
 - url: /assignments.html
   name: 作业
   icon_class: fas fa-user-graduate
-# - url: /materials.html
-#   name: 材料
-#   icon_class: fas fa-book
+- url: /english.html
+  name: English
+  icon_class: fas fa-book
