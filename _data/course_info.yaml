@@ -13,15 +13,15 @@ nav:
 - url: /
   name: 主页
   icon_class: fa fa-home fa-lg
-- url: /english.html
-  name: Homepage
-  icon_class: fa fa-home fa-lg
 - url: /lectures.html
   name: 课程讲义
   icon_class: fas fa-book-reader
 - url: /assignments.html
   name: 作业
   icon_class: fas fa-user-graduate
+- url: /english.html
+  name: Homepage
+  icon_class: fas fa-calendar-alt
 # - url: /material.html
 #   name: 材料
 #   icon_class: fas fa-book
