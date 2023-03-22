@@ -11,12 +11,12 @@ layout: default
     <br>
 
     <h2>Introduction</h2>
-    <p>{{ course_description | newline_to_br }}</p>
+    <p>{{ course_description_english | newline_to_br }}</p>
 
     {{ content }}
     <br>
 
-    <h2>往年课程</h2>
+    <h2>Previous years</h2>
     <ul class="previous-offerings">
         {% for year in this_course.years %}
         <li>
@@ -33,7 +33,7 @@ layout: default
     <div>
         <div style="width:35%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>任课教师</h2>
+                <h2>Teachers</h2>
                 {% for ins_name in site.data[_course_year].instructors %}
                 {% assign ins = site.data.people.instructors[ins_name] %}
                 <div class="image--cover-container">
@@ -54,7 +54,7 @@ layout: default
 
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>课程助教</h2>
+                <h2>Teaching assistants</h2>
                 {% for ta_name in site.data[_course_year].teaching_assistants %}
                 {% assign ta = site.data.people.teaching_assistants[ta_name] %}
                 <div class="image--cover-container">
