@@ -15,7 +15,7 @@ nav:
   icon_class: fa fa-home fa-lg
 - url: /english.html
   name: Homepage
-  icon_class: fas fa-calendar-alt
+  icon_class: fa fa-home fa-lg
 - url: /lectures.html
   name: 课程讲义
   icon_class: fas fa-book-reader
@@ -25,3 +25,6 @@ nav:
 # - url: /material.html
 #   name: 材料
 #   icon_class: fas fa-book
+# - url: /english.html
+#   name: Homepage
+#   icon_class: fas fa-calendar-alt
