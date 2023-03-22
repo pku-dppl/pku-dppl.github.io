@@ -33,8 +33,8 @@ layout: default
         <div style="width:35%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Teachers</h2>
-                {% for ins_name in site.data[_course_year].instructors %}
-                {% assign ins = site.data.people.instructors[ins_name] %}
+                {% for ins_name in site.data[_course_year].instructors_english %}
+                {% assign ins = site.data.people.instructors_english[ins_name] %}
                 <div class="image--cover-container">
                     <img src="{{ ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     <p>
@@ -54,8 +54,8 @@ layout: default
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Teaching assistants</h2>
-                {% for ta_name in site.data[_course_year].teaching_assistants %}
-                {% assign ta = site.data.people.teaching_assistants[ta_name] %}
+                {% for ta_name in site.data[_course_year].teaching_assistants_english %}
+                {% assign ta = site.data.people.teaching_assistants_english[ta_name] %}
                 <div class="image--cover-container">
                     <img src="{{ ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     <p>
