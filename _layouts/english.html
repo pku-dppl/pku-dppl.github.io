@@ -39,7 +39,7 @@ layout: default
                     <img src="{{ ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     <p>
                         {% if ins.webpage %}
-                        <a href="{{ ins.webpage }}">{{ins_name}}</a>
+                        <a href="{{ ins.webpage }}">{{ins.name_en}}</a>
                         {% else %}
                         {{ins.name_en}}
                         {% endif %}
