@@ -11,14 +11,18 @@ Time：Monday(7-9) From week 1 to week 16
 
 ### Content
 In the past few decades, the development of programming languages has shown two distinct trends: (i) from simple low-level languages to complex high-level languages, and (ii) from a fixed small set of languages to many domain-specific languages. Traditional programming languages such as C and Java, which once dominated every programming language rankings, have been gradually surpassed by modern programming languages such as JavaScript, Erlang, and R. On the one hand, many traditional languages have been evolving constantly and introducing various high-level language features. For example, the original design goal of Java was a simplified language, but the design of the latest Java 8 has included many advanced features such as generics, functional programming, and dynamic features (e.g., reflection). On the other hand, more and more programming languages are constantly emerging to meet the needs of using specialized programming languages in specific application domains.<br>
+
 In this situation, the ability to design new programming languages is no longer an exclusive superior skill of senior programming-language researchers or frontier computer scientists; instead, it has become a necessary ability for software developers. Meanwhile, understanding and mastering the principles of programming-language design can also help us better understand various new features in high-level programming languages and make better use of mainstream programming languages.<br>
+
 In this course, we will address how the constantly emerging programming languages are designed, how new advanced language features are added to mainstream languages, and whether new programming paradigms such as object-oriented programming, functional programming, and generic programming have a common theoretical foundation.<br>
+
 To guide the design of programming languages, researchers have proposed a series of principles and methodologies, the most central one among which is type theory. Type annotations provide a basic means to avoid programming errors in modern programming languages, and type theory provides both characterizations of well-behaved type systems and methods for formulating complex types. This course will teach modern programming-language theory and organize around type theory.<br>
+
 This course has two characteristics: (i) rigor: all concepts in this course will have strict mathematical definitions that can be used by formal deduction and induction, rather than vague conceptual introductions, and (ii) practicality: all important concepts will be implemented through programming assignments and students can therefore master the knowledge through hands-on exercises. We hope that through this course, students will acquire a solid theoretical foundation and practical ability in the area of programming languages, as well as become capable of conducting programming-language-related research in academia and designing new programming languages in the industry.<br>
 
 ### Bibliography
 
-[Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/), Benjamin C.Pierce, The MIT Press, 2002.（Book)
+[Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/), Benjamin C.Pierce, The MIT Press, 2002.(Book)
 
 ### Course Arrangement
 
@@ -130,7 +134,3 @@ This course has two characteristics: (i) rigor: all concepts in this course will
         </tr>    
     </tbody>
 </table>
-
-<!-- ### 教学方式
-
-本课程的教学方式涉及三个方面：课堂讲授、上机实习、分组报告。其中，在课堂讲授环节，主要由授课教师对课程内容进行讲解，并根据课程进度布置课后作业（课后作业包括每周一次的习题作业，以及定期发布的由学生分组完成的作业）。在上机实习环节，主要由学生对课堂授课内容进行实际操作，并完成课后作业。在分组报告环节，主要由学生对分组作业的完成内容进行报告。 -->
