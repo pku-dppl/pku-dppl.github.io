@@ -78,7 +78,7 @@ layout: home
         <tr>
             <td>6</td>
             <td>27-Mar</td>
-            <td>Class Project</td>
+            <td>In-class Practice</td>
             <td>Zhao</td>
         </tr>
         <tr>
