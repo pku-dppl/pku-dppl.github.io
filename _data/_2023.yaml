@@ -71,9 +71,9 @@ lectures:
   date: 2023/04/03
   slides:
   - title: "Reference"
-    link: zhao_13_2023.pdf
+    link: zhao_ch13_2023.pdf
   - title: "Exceptions"
-    link: zhao_14_2023.pdf
+    link: zhao_ch14_2023.pdf
   assignment:
     descriptions:
     - text: 13.3.1 & 13.5.8 & 14.3.1
