@@ -78,3 +78,14 @@ lectures:
     descriptions:
     - text: 13.3.1 & 13.5.8 & 14.3.1
     due: 2023/04/10
+- teacher: 赵海燕
+  date: 2023/04/10
+  slides:
+  - title: "Subtyping"
+    link: zhao_ch15_2023.pdf
+  - title: "Metatheory of Subtyping"
+    link: zhao_ch16_2023.pdf
+  assignment:
+    descriptions:
+    - text: 15.2.2 & 15.3.2 & 15.3.6 & 16.1.2 & 16.2.6 & 16.4.1
+    due: 2023/04/17
