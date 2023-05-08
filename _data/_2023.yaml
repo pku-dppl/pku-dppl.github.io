@@ -100,3 +100,14 @@ lectures:
     descriptions:
     - text: 18.6.1 & 18.11.1
     due: 2023/05/08
+- teacher: 王迪
+  date: 2023/05/08
+  slides:
+  - title: "Recursive Types"
+    link: wang_ch20_2023.pdf
+  - title: "Metatheory of Recursive Types"
+    link: wang_ch21_2023.pdf
+  assignment:
+    descriptions:
+    - text: on the last page of "Recursive Types" slide & 21.5.2
+    due: 2023/05/15
