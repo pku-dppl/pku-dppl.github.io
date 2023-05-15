@@ -111,3 +111,15 @@ lectures:
     descriptions:
     - text: on the last page of "Recursive Types" slide & 21.5.2
     due: 2023/05/15
+- teacher: 王迪
+  date: 2023/05/15
+  slides:
+  - title: "Universal Type"
+    link: wang_ch23_2023.pdf
+  - title: "Type Reconstruction"
+    link: wang_ch22_2023.pdf
+  assignment:
+    descriptions:
+    - text: 23.5.1 or 23.5.2（choose one of these two）
+    - text: on the last page of "Type Reconstruction"
+    due: 2023/05/22
