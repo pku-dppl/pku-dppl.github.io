@@ -123,3 +123,15 @@ lectures:
     - text: 23.5.1 or 23.5.2（choose one of these two）
     - text: on the last page of "Type Reconstruction"
     due: 2023/05/22
+- teacher: 王迪
+  date: 2023/05/22
+  slides:
+  - title: "Existential Type"
+    link: wang_ch24_2023.pdf
+  - title: "Bounded Quantification"
+    link: wang_ch26_2023.pdf
+  assignment:
+    descriptions:
+    - text: on the last page of "Existential Type"
+    - text: 26.3.5
+    due: 2023/05/29
