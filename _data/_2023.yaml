@@ -135,3 +135,10 @@ lectures:
     - text: on the last page of "Existential Type"
     - text: 26.3.5
     due: 2023/05/29
+- teacher: 王迪
+  date: 2023/05/29
+  slides:
+  - title: "Type Operators and Kingding"
+    link: wang_ch29_2023.pdf
+  - title: "Higher-Order Polymorphism"
+    link: wang_ch30_2023.pdf
