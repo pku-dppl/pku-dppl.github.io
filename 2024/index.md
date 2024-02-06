@@ -47,6 +47,114 @@ layout: home
     <tbody>
         <tr>
             <td>1</td>
+            <td>19-Feb</td>
+            <td>Introduction<br>Untyped arithmetic operations</td>
+            <td>Zhao</td>
+        </tr>
+               <tr>
+            <td>2</td>
+            <td>26-Feb</td>
+            <td>OCaml</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4-Mar</td>
+            <td>Lambda Calculus<br>Nameless Representation</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>11-Mar</td>
+            <td>Type Basics<br>Simple Typed lambda Calculus<br>Simply Extensions</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>18-Mar</td>
+            <td>Reference</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>25-Mar</td>
+            <td>Class Project</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>1-Apr</td>
+            <td>Exception</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>8-Apr</td>
+            <td>Subtyping<br>Metatheory Subtyping</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>15-Apr</td>
+            <td>Middle Test (+ Check project)</td>
+            <td>Zhao/Wang</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>22-Apr</td>
+            <td>Case Study: Imperative Objects<br>Case Study: Featherweight Java</td>
+            <td>Wang</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>29-Apr</td>
+            <td>May Festival (No class)</td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>6-May</td>
+            <td>In-class Practice</td>
+            <td>Wang</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>13-May</td>
+            <td>Recursive Types<br>Metatheory of Recursive Types</td>
+            <td>Wang</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>20-May</td>
+            <td>Type Reconstruction<br>Universal Types</td>
+            <td>Wang</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>27-May</td>
+            <td>Existential Types</td>
+            <td>Wang</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>3-Jun</td>
+            <td>Final Presentation</td>
+            <td>Zhao/Wang</td>
+        </tr>    
+    </tbody>
+</table>
+
+    <thead>
+        <tr>
+            <th>Class</th>
+            <th>Date</th>
+            <th>Topic and Readings</th>
+            <th>Lecturer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
             <td>20-Feb</td>
             <td>Introduction<br>Untyped arithmetic operations</td>
             <td>Zhao</td>
