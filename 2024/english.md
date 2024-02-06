@@ -4,7 +4,7 @@ layout: english
 
 ## Course Information
 
-Place：Changping 204<br>
+Place：Changping 206<br>
 Time：Monday(7-9) From week 1 to week 16
 
 ## Syllabus
