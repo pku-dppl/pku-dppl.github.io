@@ -37,9 +37,16 @@ teaching_assistants:
     name_en: Lijuan Tang
     profile_pic: /_images/anonymous.jpg
     email: lijuan_tang@stu.pku.edu.cn
+  郭冠琛:
+    name_en: Guanchen Guo
+    profile_pic: /_images/anonymous.jpg
+    email: guanchenguo@stu.pku.edu.cn
 
 
 teaching_assistants_english:
   Lijuan_Tang:
     profile_pic: /_images/anonymous.jpg
     email: lijuan_tang@stu.pku.edu.cn
+  Guanchen_Guo:
+    profile_pic: /_images/anonymous.jpg
+    email: guanchenguo@stu.pku.edu.cn

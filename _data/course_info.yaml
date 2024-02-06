@@ -2,7 +2,7 @@ name: 编程语言的设计原理
 semester: 春
 english_name: Design Principles of Programming Languages
 english_semester: Spring
-years: [2022, 2023]
+years: [2022, 2023, 2024]
 description_english: |
   New programming languages have been emerging constantly. How do people propose the design of those languages? How do people formulate new high-level language features? Do various programming paradigms---such as object-oriented programming, functional programming, and generic programming---share a common theoretical foundation? This course will give an answer to those questions from the perspective of type theory.
   Type theory is the core of many principles and methodologies that guide programming-language design. In modern programming languages, type annotations provide a basic means to avoid programming errors, and type theory provides characterizations of well-behaved type systems and methods for formulating complex types. This course will teach programming-language theory and organize around type theory.
