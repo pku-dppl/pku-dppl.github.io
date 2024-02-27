@@ -16,3 +16,16 @@ lectures:
     - text: 安装 OCaml 
     - text: 3.5.13 & 3.5.16
     due: 2023/02/26
+
+- teacher: 赵海燕
+  date: 2024/02/26
+  slides:
+  - title: "Basic for Implementation"
+    link: zhao_OCaml_Overview_2024.pdf
+  # - title: "Untyped arithmetic operations"
+  #   link: zhao_ch3.pdf
+  assignment:
+    descriptions:
+    - text: 熟悉 OCaml 
+    - text: 完成课件最后一页的练习
+    due: 2023/03/04
