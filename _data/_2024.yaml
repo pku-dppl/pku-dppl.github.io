@@ -22,10 +22,18 @@ lectures:
   slides:
   - title: "Basic for Implementation"
     link: zhao_OCaml_Overview_2024.pdf
-  # - title: "Untyped arithmetic operations"
-  #   link: zhao_ch3.pdf
   assignment:
     descriptions:
     - text: 熟悉 OCaml 
     - text: 完成课件最后一页的练习
+    due: 2023/03/04
+
+- teacher: 赵海燕
+  date: 2024/03/04
+  slides:
+  - title: "The Untyped Lambda Calculus"
+    link: zhao_ch5_2024.pdf
+  assignment:
+    descriptions:
+    - text: 5.3.6 & 5.3.7
     due: 2023/03/04
