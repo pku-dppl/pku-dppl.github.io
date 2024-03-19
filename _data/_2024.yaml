@@ -49,3 +49,15 @@ lectures:
     descriptions:
     - text: 6.2.5 & 8.3.7
     due: 2023/03/18    
+
+- teacher: 赵海燕
+  date: 2024/03/18
+  slides:
+  - title: "Simply Typed Lambda-Calculus"
+    link: zhao_ch9_2024.pdf
+  - title: "Simply Extensions"
+    link: zhao_ch11_2024.pdf
+  assignment:
+    descriptions:
+    - text: 9.3.9 & 11.5.2 & 11.12.1
+    due: 2023/03/25    
