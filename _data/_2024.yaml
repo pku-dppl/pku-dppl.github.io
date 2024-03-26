@@ -61,3 +61,13 @@ lectures:
     descriptions:
     - text: 9.3.9 & 11.5.2 & 11.12.1
     due: 2023/03/25    
+
+- teacher: 赵海燕
+  date: 2024/03/25
+  slides:
+  - title: "Reference"
+    link: zhao_ch13_2024.pdf
+  assignment:
+    descriptions:
+    - text: 13.5.2 & 13.5.8
+    due: 2023/04/01 
