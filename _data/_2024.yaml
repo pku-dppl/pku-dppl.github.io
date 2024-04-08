@@ -77,9 +77,21 @@ lectures:
   slides:
   - title: "Exceptions"
     link: zhao_ch14-2024.pdf
-  - title: "Subtyping"
+  - title: "Subtyping-1"
     link: zhao_ch15_p1_2024.pdf
   assignment:
     descriptions:
     - text: 14.3.1
     due: 2023/04/08
+
+- teacher: 赵海燕
+  date: 2024/04/08
+  slides:
+  - title: "Subtyping-2"
+    link: zhao_ch15_2024-p2.pdf
+  - title: "Metatheory of Subtyping"
+    link: zhao_ch16_2024.pdf
+  assignment:
+    descriptions:
+    - text: 15.2.2 & 15.3.2 & 15.5.2 & 16.1.2 & 16.2.6 & 16.4.1
+    due: 2023/04/15
