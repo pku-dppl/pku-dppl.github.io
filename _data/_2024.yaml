@@ -95,3 +95,13 @@ lectures:
     descriptions:
     - text: 15.2.2 & 15.3.2 & 15.5.2 & 16.1.2 & 16.2.6 & 16.4.1
     due: 2023/04/15
+
+- teacher: 王迪
+  date: 2024/04/22
+  slides:
+  - title: "Recursive Types"
+    link: wang_recursive_types_2024.pdf
+  assignment:
+    descriptions:
+    - text: on the last page of "Recursive Types"
+    due: 2023/04/29
