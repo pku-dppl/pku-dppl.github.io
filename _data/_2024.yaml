@@ -15,7 +15,7 @@ lectures:
     descriptions:
     - text: 安装 OCaml 
     - text: 3.5.13 & 3.5.16
-    due: 2023/02/26
+    due: 2024/02/26
 
 - teacher: 赵海燕
   date: 2024/02/26
@@ -26,7 +26,7 @@ lectures:
     descriptions:
     - text: 熟悉 OCaml 
     - text: 完成课件最后一页的练习
-    due: 2023/03/04
+    due: 2024/03/04
 
 - teacher: 赵海燕
   date: 2024/03/04
@@ -36,7 +36,7 @@ lectures:
   assignment:
     descriptions:
     - text: 5.3.6 & 5.3.7
-    due: 2023/03/11
+    due: 2024/03/11
 
 - teacher: 赵海燕
   date: 2024/03/11
@@ -48,7 +48,7 @@ lectures:
   assignment:
     descriptions:
     - text: 6.2.5 & 8.3.7
-    due: 2023/03/18    
+    due: 2024/03/18    
 
 - teacher: 赵海燕
   date: 2024/03/18
@@ -60,7 +60,7 @@ lectures:
   assignment:
     descriptions:
     - text: 9.3.9 & 11.5.2 & 11.12.1
-    due: 2023/03/25    
+    due: 2024/03/25    
 
 - teacher: 赵海燕
   date: 2024/03/25
@@ -70,7 +70,7 @@ lectures:
   assignment:
     descriptions:
     - text: 13.5.2 & 13.5.8
-    due: 2023/04/01 
+    due: 2024/04/01 
 
 - teacher: 赵海燕
   date: 2024/04/01
@@ -82,7 +82,7 @@ lectures:
   assignment:
     descriptions:
     - text: 14.3.1
-    due: 2023/04/08
+    due: 2024/04/08
 
 - teacher: 赵海燕
   date: 2024/04/08
@@ -94,7 +94,7 @@ lectures:
   assignment:
     descriptions:
     - text: 15.2.2 & 15.3.2 & 15.5.2 & 16.1.2 & 16.2.6 & 16.4.1
-    due: 2023/04/15
+    due: 2024/04/15
 
 - teacher: 王迪
   date: 2024/04/22
@@ -104,4 +104,14 @@ lectures:
   assignment:
     descriptions:
     - text: on the last page of "Recursive Types"
-    due: 2023/04/29
+    due: 2024/04/29
+
+- teacher: 王迪
+  date: 2024/05/06
+  slides:
+  - title: "Variable Types"
+    link: wang_variable_types_2024.pdf
+  assignment:
+    descriptions:
+    - text: 23.5.1 OR 23.5.2
+    due: 2024/05/13
