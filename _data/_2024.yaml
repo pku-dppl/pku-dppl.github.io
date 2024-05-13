@@ -115,3 +115,10 @@ lectures:
     descriptions:
     - text: 23.5.1 OR 23.5.2
     due: 2024/05/13
+
+- teacher: 王迪
+  date: 2024/05/13
+  assignment:
+    descriptions:
+    - text: on the last page of "Variable Types"
+    due: 2024/05/20
