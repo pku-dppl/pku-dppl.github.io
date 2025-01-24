@@ -1,0 +1,10 @@
+instructors: [赵海燕, 王迪]
+teaching_assistants: []
+instructors_english: [Haiyan_Zhao, Di_Wang]
+teaching_assistants_english: []
+
+lectures:
+- teacher: 赵海燕
+  date: 2025/02/17
+  slides:
+  assignment:
