@@ -48,7 +48,7 @@ This course has two characteristics: (i) rigor: all concepts in this course will
                <tr>
             <td>2</td>
             <td>24-Feb</td>
-            <td>OCaml/MoonBit</td>
+            <td>MoonBit</td>
             <td>Zhao/Wang</td>
         </tr>
         <tr>

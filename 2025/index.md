@@ -56,7 +56,7 @@ layout: home
                <tr>
             <td>2</td>
             <td>24-Feb</td>
-            <td>OCaml/MoonBit</td>
+            <td>MoonBit</td>
             <td>Zhao/Wang</td>
         </tr>
         <tr>
