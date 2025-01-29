@@ -27,6 +27,12 @@ This course has two characteristics: (i) rigor: all concepts in this course will
 
 [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/), Robert Harper, Cambridge University Press, 2016. (Reference)
 
+### Implementation
+
+The reference OCaml implementations of Types and Programming Languages can be found at the textbook's [official page](https://www.cis.upenn.edu/~bcpierce/tapl/resources.html#checkers).
+
+This year, we plan to switch from OCaml to [MoonBit](https://www.moonbitlang.com/). The port of some checkers used in the course can be found at [https://github.com/pku-dppl/TAPL-in-MoonBit/](https://github.com/pku-dppl/TAPL-in-MoonBit/).
+
 ### Schedule
 
 <table border="1" cellspacing="1">
@@ -48,7 +54,7 @@ This course has two characteristics: (i) rigor: all concepts in this course will
                <tr>
             <td>2</td>
             <td>24-Feb</td>
-            <td>MoonBit</td>
+            <td>OCaml/MoonBit</td>
             <td>Zhao/Wang</td>
         </tr>
         <tr>
@@ -60,7 +66,7 @@ This course has two characteristics: (i) rigor: all concepts in this course will
         <tr>
             <td>4</td>
             <td>10-Mar</td>
-            <td>Type Basics<br>Simple Typed Lambda Calculus<br>Simple Extensions</td>
+            <td>Type Basics<br>Simply Typed Lambda Calculus<br>Simple Extensions</td>
             <td>Zhao</td>
         </tr>
         <tr>

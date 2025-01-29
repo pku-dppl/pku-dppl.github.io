@@ -35,6 +35,12 @@ layout: home
 
 [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/), Robert Harper, Cambridge University Press, 2016.（参考书）
 
+### 参考代码
+
+Types and Programming Languages 教材的参考 OCaml 代码实现可以在[教材主页](https://www.cis.upenn.edu/~bcpierce/tapl/resources.html#checkers)上找到。
+
+今年的课程拟从 OCaml 语言切换为 [MoonBit](https://www.moonbitlang.com/) 语言，课程中涉及的代码实现在 [https://github.com/pku-dppl/TAPL-in-MoonBit/](https://github.com/pku-dppl/TAPL-in-MoonBit/)。
+
 ### 内容提要
 
 <table border="1" cellspacing="1">
@@ -56,7 +62,7 @@ layout: home
                <tr>
             <td>2</td>
             <td>24-Feb</td>
-            <td>MoonBit</td>
+            <td>OCaml/MoonBit</td>
             <td>Zhao/Wang</td>
         </tr>
         <tr>
@@ -68,7 +74,7 @@ layout: home
         <tr>
             <td>4</td>
             <td>10-Mar</td>
-            <td>Type Basics<br>Simple Typed Lambda Calculus<br>Simple Extensions</td>
+            <td>Type Basics<br>Simply Typed Lambda Calculus<br>Simple Extensions</td>
             <td>Zhao</td>
         </tr>
         <tr>
