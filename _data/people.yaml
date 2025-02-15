@@ -17,7 +17,7 @@ instructors:
     title_en: Assistant Professor
     profile_pic: /_images/instructors/Di-Wang.jpg
     webpage: https://stonebuddha.github.io/
-    
+
 instructors_english:
   Haiyan_Zhao:
     title: Associate Professor
@@ -41,6 +41,10 @@ teaching_assistants:
     name_en: Guanchen Guo
     profile_pic: /_images/anonymous.jpg
     email: guanchenguo@stu.pku.edu.cn
+  练琪灏:
+    name_en: Qihao Lian
+    profile_pic:  /_images/anonymous.jpg
+    email: mepy@stu.pku.edu.cn
 
 
 teaching_assistants_english:
@@ -50,3 +54,6 @@ teaching_assistants_english:
   Guanchen_Guo:
     profile_pic: /_images/anonymous.jpg
     email: guanchenguo@stu.pku.edu.cn
+  Qihao_Lian:
+    profile_pic:  /_images/anonymous.jpg
+    email: mepy@stu.pku.edu.cn
