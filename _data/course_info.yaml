@@ -23,6 +23,9 @@ nav:
 - url: /assignments.html
   name: 作业
   icon_class: fas fa-user-graduate
+- url: /projects.html
+  name: Projects
+  icon_class: fas fa-file
 - url: /english.html
   name: Homepage
   icon_class: fas fa-calendar-alt
