@@ -1,8 +1,10 @@
 ---
 layout: assignments
-title: 作业
+title: Assignments
 ---
 
-这里列出本课程要求完成的作业，原则上每次课的作业在当次课的下一周周一（0点）截止。
+You can find assignments here.
+The assignment for week (x) will be due on the Monday of week (x+1).
 
-每周的作业请尽量在一封邮件内交齐，发送到课程邮箱（pku-dppl@outlook.com）并请在**邮件主题**中注明学号、姓名以及第几周作业（格式为“**2100012345-张三-1**”）。
+Please submit your solution in an email to pku-dppl@outlook.com.
+Remember to annotate your student ID, name, and the week number (x) in the **subject line**, e.g., **2100012345-San Zhang-1**.

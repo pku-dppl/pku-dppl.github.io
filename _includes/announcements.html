@@ -33,7 +33,7 @@
   {% if include.updates_only %}
   <h2>讲义更新</h2>
   {% else %}
-  <h2>新通知</h2>
+  <h2>Announcement</h2>
   {% endif %}
   <ul>
     {% for update in updates %}
@@ -50,14 +50,14 @@
     {% for slides in lecture.slides %}
     <li class="no-p-margin">
       <span style="color: gray; margin-right: 0.7em;">{{ lecture.date }}</span>
-      讲义：<a href="slides/{{ slides.link }}" style="display: inline-block; vertical-align: top;">{{ slides.title }}</a>
+      Slides: <a href="slides/{{ slides.link }}" style="display: inline-block; vertical-align: top;">{{ slides.title }}</a>
     </li>
     {% endfor %}
     {% if lecture.assignment %}
     <li class="no-p-margin">
       <span style="color: gray; margin-right: 0.7em;">{{ lecture.date }}</span>
-      作业：
-      {{ lecture.teacher }}：
+      Assignment:
+      <!-- {{ lecture.teacher }}： -->
       <div style="display: inline-block; vertical-align: top;">
         {% assign first_slides = lecture.slides[0] %}
         <span style="font-style: italic;">{{ first_slides.title }}</span>
@@ -68,9 +68,9 @@
       <span style="margin-left: 0.5em;">
         <a href="{{ course_base_url }}/assignments">
           {% if lecture.assignment.due %}
-          [{{ lecture.assignment.due }} 截止]
+          [Due: {{ lecture.assignment.due }}]
           {% else %}
-          [不需要提交]
+          [No submission required]
           {% endif %}
         </a>
       </span>

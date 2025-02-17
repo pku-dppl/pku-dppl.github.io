@@ -29,11 +29,11 @@ layout: page
           {% unless first_slides %}<br>{% endunless %}
           {% assign first_slides = false %}
           <span style="font-weight: bold;">{{ slides.title }}</span>
-          <a href="slides/{{ slides.link }}" style="padding-left: 0.7em; float: right;">[幻灯片]</a>
+          <a href="slides/{{ slides.link }}" style="padding-left: 0.7em; float: right;">[Slides]</a>
           {% endfor %}
         </div>
         {% if lecture.assignment %}
-        <a href="{{ course_base_url }}/assignments" style="padding-left: 0.5em;">[作业]</a>
+        <a href="{{ course_base_url }}/assignments" style="padding-left: 0.5em;">[Assignment]</a>
         {% endif %}
 
         {% if lecture.tldr %}

@@ -4,7 +4,13 @@ instructors_english: [Haiyan_Zhao, Di_Wang]
 teaching_assistants_english: [Qihao_Lian]
 
 lectures:
-- teacher: 赵海燕
+- teacher: Zhao
   date: 2025/02/17
   slides:
+  - title: "Introduction"
+    link: zhao_CourseOverview+ch1+ch3_2025.pdf
   assignment:
+    descriptions:
+    - text: Install MoonBit or OCaml
+    - text: 3.5.13 & 3.5.16
+    due: 2025/02/24

@@ -3,6 +3,8 @@ layout: default
 title: Projects
 ---
 
+# Projects
+
 ## Project Requirement
 
 In this course, you will design and implement a typed programming language with certain features.
