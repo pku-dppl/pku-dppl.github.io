@@ -14,3 +14,11 @@ lectures:
     - text: Install MoonBit or OCaml
     - text: 3.5.13 & 3.5.16
     due: 2025/02/24
+- teacher: Hongbo Zhang
+  date: 2025/02/24
+  slides:
+  - title: "MoonBit"
+  assignment:
+    descriptions:
+    - text: Write an interesting program in MoonBit or OCaml (of ~50 lines of code)
+    due: 2025/03/03
