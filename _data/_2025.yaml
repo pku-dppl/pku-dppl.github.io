@@ -22,3 +22,12 @@ lectures:
     descriptions:
     - text: Write an interesting program in MoonBit or OCaml (of ~50 lines of code)
     due: 2025/03/03
+- teacher: Zhao
+  date: 2025/03/03
+  slides:
+  - title: "The Untyped Lambda Calculus"
+    link: zhao_ch5_2025.pdf
+  assignment:
+    descriptions:
+    - text: 5.3.3 & 5.3.8
+    due: 2025/03/10
