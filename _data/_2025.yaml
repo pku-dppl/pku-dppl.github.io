@@ -31,3 +31,16 @@ lectures:
     descriptions:
     - text: 5.3.3 & 5.3.8
     due: 2025/03/10
+- teacher: Zhao
+  date: 2025/03/10
+  slides:
+  - title: "Nameless Representation of Terms"
+    link: zhao_ch6_2025.pdf
+  - title: "Typed Arithmetic Expressions"
+    link: zhao_ch8_2025.pdf 
+  - title: "Simply Typed Lambda-Calculus"
+    link: zhao_ch9_2025.pdf
+  assignment:
+    descriptions:
+    - text: 6.3.2 & 8.3.7 & 9.3.9
+    due: 2025/03/17
