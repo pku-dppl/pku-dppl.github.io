@@ -44,3 +44,14 @@ lectures:
     descriptions:
     - text: 6.3.2 & 8.3.7 & 9.3.9
     due: 2025/03/17
+- teacher: Zhao
+  date: 2025/03/17
+  slides:
+  - title: "Simply Extensions"
+    link: zhao_ch11_2025.pdf 
+  - title: "Reference (Part I)"
+    link: zhao_ch13_p1_2025.pdf
+  assignment:
+    descriptions:
+    - text: 11.11.1 & 11.12.1
+    due: 2025/03/24
