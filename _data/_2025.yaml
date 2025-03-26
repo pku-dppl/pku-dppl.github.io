@@ -55,3 +55,14 @@ lectures:
     descriptions:
     - text: 11.11.1 & 11.12.1
     due: 2025/03/24
+- teacher: Zhao
+  date: 2025/03/24
+  slides:
+  - title: "Reference (Part II)"
+    link: zhao_ch13_p2_2025.pdf
+  - title: "Exceptions"
+    link: zhao_ch14_2025.pdf 
+  assignment:
+    descriptions:
+    - text: 13.1.2 & 13.3.1 & 14.3.2
+    due: 2025/03/31
