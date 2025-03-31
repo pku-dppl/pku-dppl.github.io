@@ -66,3 +66,15 @@ lectures:
     descriptions:
     - text: 13.1.2 & 13.3.1 & 14.3.2
     due: 2025/03/31
+- teacher: Zhao
+  date: 2025/03/31
+  slides:
+  - title: "Subtyping"
+    link: zhao_ch15_2025.pdf
+  - title: "Metatheory of Subtyping"
+    link: zhao_ch16_2025.pdf 
+  assignment:
+    descriptions:
+    - text: 15.2.2 & 15.3.6 & 16.1.2 & 16.2.1 & 16.3.3
+    - text: Prepare a presentation that includes motivation, a preliminary plan, expected results, cooperation and division, etc.
+    due: 2025/04/07
