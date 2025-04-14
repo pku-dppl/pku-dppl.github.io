@@ -78,3 +78,12 @@ lectures:
     - text: 15.2.2 & 15.3.6 & 16.1.2 & 16.2.1 & 16.3.3
     - text: Prepare a presentation that includes motivation, a preliminary plan, expected results, cooperation and division, etc.
     due: 2025/04/07
+- teacher: Wang
+  date: 2025/04/14
+  slides:
+  - title: "Recursive Types"
+    link: wang_recursive_types_2025.pdf
+  assignment:
+    descriptions:
+    - text: on the last page of "Recursive Types"
+    due: 2025/04/21
