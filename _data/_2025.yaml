@@ -83,6 +83,8 @@ lectures:
   slides:
   - title: "Recursive Types"
     link: wang_recursive_types_2025.pdf
+  - title: "Variable Types"
+    link: wang_variable_types_2025.pdf
   assignment:
     descriptions:
     - text: on the last page of "Recursive Types"
