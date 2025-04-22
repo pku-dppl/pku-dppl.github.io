@@ -89,3 +89,10 @@ lectures:
     descriptions:
     - text: on the last page of "Recursive Types"
     due: 2025/04/21
+  
+- teacher: Wang
+  date: 2025/04/21
+  assignment:
+    descriptions:
+    - text: 23.5.1 & 23.5.2 (on the last page of "Variable Types", the former 2 questions)
+    due: 2025/04/28
