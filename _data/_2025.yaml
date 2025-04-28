@@ -83,8 +83,6 @@ lectures:
   slides:
   - title: "Recursive Types"
     link: wang_recursive_types_2025.pdf
-  - title: "Variable Types"
-    link: wang_variable_types_2025.pdf
   assignment:
     descriptions:
     - text: on the last page of "Recursive Types"
@@ -96,3 +94,15 @@ lectures:
     descriptions:
     - text: 23.5.1 & 23.5.2 (on the last page of "Variable Types", the former 2 questions)
     due: 2025/04/28
+
+- teacher: Wang
+  date: 2025/04/28
+  slides:
+  - title: "Variable Types"
+    link: wang_variable_types_2025.pdf
+  - title: "Type Level Computation"
+    link: wang_type_level_computation_2025.pdf
+  assignment:
+    descriptions:
+    - text: The last question on the last page of "Variable Types"
+    due: 2025/05/12
