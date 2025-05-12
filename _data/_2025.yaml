@@ -106,3 +106,10 @@ lectures:
     descriptions:
     - text: The last question on the last page of "Variable Types"
     due: 2025/05/12
+
+- teacher: Wang
+  date: 2025/05/12
+  assignment:
+    descriptions:
+    - text: on the last page of "Type-Level Computation"
+    due: 2025/05/19
