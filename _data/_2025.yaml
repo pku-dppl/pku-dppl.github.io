@@ -113,3 +113,13 @@ lectures:
     descriptions:
     - text: on the last page of "Type-Level Computation"
     due: 2025/05/19
+
+- teacher: Wang
+  date: 2025/05/19
+  slides:
+  - title: "Type Inference"
+    link: wang_type_inference_2025.pdf
+  assignment:
+    descriptions:
+    - text: on the last page of "Type Inference"
+    due: 2025/05/26
