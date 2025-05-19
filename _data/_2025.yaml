@@ -119,6 +119,8 @@ lectures:
   slides:
   - title: "Type Inference"
     link: wang_type_inference_2025.pdf
+  - title: "Substructural Types"
+    link: wang_substructural_types_2025.pdf
   assignment:
     descriptions:
     - text: on the last page of "Type Inference"
