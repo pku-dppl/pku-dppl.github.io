@@ -4,7 +4,7 @@ layout: english
 
 ## Course Information
 
-Room: Changping 109<br>
+Room: Changping 108<br>
 Time: Week 1--16, Monday, Lect. 7--9
 
 ## Syllabus
