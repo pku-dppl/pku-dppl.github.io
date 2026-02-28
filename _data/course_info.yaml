@@ -2,7 +2,7 @@ name: 编程语言的设计原理
 semester: 春
 english_name: Design Principles of Programming Languages
 english_semester: Spring
-years: [2022, 2023, 2024, 2025]
+years: [2022, 2023, 2024, 2025, 2026]
 description_english: |
   New programming languages have been emerging constantly. How do people propose the design of those languages? How do people formulate new high-level language features? Do various programming paradigms---such as object-oriented programming, functional programming, and generic programming---share a common theoretical foundation? This course will give an answer to those questions from the perspective of type theory.
 

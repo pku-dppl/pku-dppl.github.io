@@ -45,6 +45,10 @@ teaching_assistants:
     name_en: Qihao Lian
     profile_pic:  /_images/anonymous.jpg
     email: mepy@stu.pku.edu.cn
+  邢文恺:
+    name_en: Wenkai Xing
+    profile_pic:  /_images/anonymous.jpg
+    email: kevinx@stu.pku.edu.cn
 
 
 teaching_assistants_english:
@@ -57,3 +61,6 @@ teaching_assistants_english:
   Qihao_Lian:
     profile_pic:  /_images/anonymous.jpg
     email: mepy@stu.pku.edu.cn
+  Wenkai_Xing:
+    profile_pic:  /_images/anonymous.jpg
+    email: kevinx@stu.pku.edu.cn
