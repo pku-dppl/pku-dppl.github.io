@@ -7,128 +7,129 @@ lectures:
   - date: 2026/03/02
     teacher: 赵海燕
     slides:
-      - title: "Introduction + Untyped Arithmetic Operations"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/03/09
-  - date: 2026/03/09
-    teacher: 王迪
-    slides:
-      - title: "MoonBit"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/03/16
-  - date: 2026/03/16
-    teacher: 赵海燕
-    slides:
-      - title: "Lambda Calculus & Nameless Representation"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/03/23
-  - date: 2026/03/23
-    teacher: 赵海燕
-    slides:
-      - title: "Type Basics + Simple Typed Lambda Calculus + Simply Extensions"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/03/30
-  - date: 2026/03/30
-    teacher: 赵海燕
-    slides:
-      - title: "Reference + Exception"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/04/13
-  - date: 2026/04/06
-    teacher: ""
-    slides:
-      - title: "Qingming holiday  (No class)"
-    assignment:
-      descriptions:
-        - text: "No class"
-      due: 2026/04/13
-  - date: 2026/04/13
-    teacher: 赵海燕
-    slides:
-      - title: "Subtyping + Metatheory of Subtyping"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/04/20
-  - date: 2026/04/20
-    teacher: 王迪, 赵海燕
-    slides:
-      - title: "Project Proposal (+ Midterm Test)"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/04/27
-  - date: 2026/04/27
-    teacher: 王迪
-    slides:
-      - title: "Recursive Types"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/05/11
-  - date: 2026/05/04
-    teacher: ""
-    slides:
-      - title: "May Festival (No class)"
-    assignment:
-      descriptions:
-        - text: "No class"
-      due: 2026/05/11
-  - date: 2026/05/11
-    teacher: 王迪
-    slides:
-      - title: "Variable Types"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/05/18
-  - date: 2026/05/18
-    teacher: 王迪
-    slides:
-      - title: "Type-Level Computation"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/05/25
-  - date: 2026/05/25
-    teacher: 王迪
-    slides:
-      - title: "Type Inference"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/06/01
-  - date: 2026/06/01
-    teacher: 王迪
-    slides:
-      - title: "Substructural Types"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/06/08
-  - date: 2026/06/08
-    teacher: 王迪
-    slides:
-      - title: "Effect Types"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/06/15
-  - date: 2026/06/15
-    teacher: 王迪, 赵海燕
-    slides:
-      - title: "Project Final Presentation"
-    assignment:
-      descriptions:
-        - text: "TBD"
-      due: 2026/06/22
+      - title: "Introduction"
+        link: zhao_CourseOverview+ch1+ch3_2025.pdf
+    # assignment:
+    #   descriptions:
+    #     - text: "TBD"
+    #   due: 2026/03/09
+  # - date: 2026/03/09
+  #   teacher: 王迪
+  #   slides:
+  #     - title: "MoonBit"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/03/16
+  # - date: 2026/03/16
+  #   teacher: 赵海燕
+  #   slides:
+  #     - title: "Lambda Calculus & Nameless Representation"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/03/23
+  # - date: 2026/03/23
+  #   teacher: 赵海燕
+  #   slides:
+  #     - title: "Type Basics + Simple Typed Lambda Calculus + Simply Extensions"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/03/30
+  # - date: 2026/03/30
+  #   teacher: 赵海燕
+  #   slides:
+  #     - title: "Reference + Exception"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/04/13
+  # - date: 2026/04/06
+  #   teacher: ""
+  #   slides:
+  #     - title: "Qingming holiday  (No class)"
+  #   assignment:
+  #     descriptions:
+  #       - text: "No class"
+  #     due: 2026/04/13
+  # - date: 2026/04/13
+  #   teacher: 赵海燕
+  #   slides:
+  #     - title: "Subtyping + Metatheory of Subtyping"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/04/20
+  # - date: 2026/04/20
+  #   teacher: 王迪, 赵海燕
+  #   slides:
+  #     - title: "Project Proposal (+ Midterm Test)"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/04/27
+  # - date: 2026/04/27
+  #   teacher: 王迪
+  #   slides:
+  #     - title: "Recursive Types"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/05/11
+  # - date: 2026/05/04
+  #   teacher: ""
+  #   slides:
+  #     - title: "May Festival (No class)"
+  #   assignment:
+  #     descriptions:
+  #       - text: "No class"
+  #     due: 2026/05/11
+  # - date: 2026/05/11
+  #   teacher: 王迪
+  #   slides:
+  #     - title: "Variable Types"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/05/18
+  # - date: 2026/05/18
+  #   teacher: 王迪
+  #   slides:
+  #     - title: "Type-Level Computation"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/05/25
+  # - date: 2026/05/25
+  #   teacher: 王迪
+  #   slides:
+  #     - title: "Type Inference"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/06/01
+  # - date: 2026/06/01
+  #   teacher: 王迪
+  #   slides:
+  #     - title: "Substructural Types"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/06/08
+  # - date: 2026/06/08
+  #   teacher: 王迪
+  #   slides:
+  #     - title: "Effect Types"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/06/15
+  # - date: 2026/06/15
+  #   teacher: 王迪, 赵海燕
+  #   slides:
+  #     - title: "Project Final Presentation"
+  #   assignment:
+  #     descriptions:
+  #       - text: "TBD"
+  #     due: 2026/06/22
