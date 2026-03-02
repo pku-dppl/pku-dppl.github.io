@@ -8,11 +8,13 @@ lectures:
     teacher: 赵海燕
     slides:
       - title: "Introduction"
-        link: zhao_CourseOverview+ch1+ch3_2025.pdf
-    # assignment:
-    #   descriptions:
-    #     - text: "TBD"
-    #   due: 2026/03/09
+        link: zhao_CourseOverview+ch1+ch3_2026.pdf
+    assignment:
+      descriptions:
+        - text: Install MoonBit or OCaml
+        - text: 3.5.13 & 3.5.16
+        - text: See slides for optional exercises
+      due: 2026/03/09
   # - date: 2026/03/09
   #   teacher: 王迪
   #   slides:
