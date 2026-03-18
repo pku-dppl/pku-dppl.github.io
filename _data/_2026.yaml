@@ -19,14 +19,18 @@ lectures:
     teacher: 王迪
     slides:
       - title: "MoonBit"
-  # - date: 2026/03/16
-  #   teacher: 赵海燕
-  #   slides:
-  #     - title: "Lambda Calculus & Nameless Representation"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/03/23
+  - date: 2026/03/16
+    teacher: 赵海燕
+    slides:
+      - title: "The Untyped Lambda Calculus"
+        link: zhao_ch5_2026.pdf
+      - title: "Nameless Representation of Terms"
+        link: zhao_ch6_2026.pdf
+    assignment:
+      descriptions:
+        - text: "5.2.11 & 5.3.7"
+        - text: "6.3.2"
+  #     due: 202603/23
   # - date: 2026/03/23
   #   teacher: 赵海燕
   #   slides:
