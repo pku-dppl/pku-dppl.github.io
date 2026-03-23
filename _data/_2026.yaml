@@ -31,14 +31,21 @@ lectures:
         - text: "5.2.11 & 5.3.7"
         - text: "6.3.2"
       due: 2026/03/23
-  # - date: 2026/03/23
-  #   teacher: 赵海燕
-  #   slides:
-  #     - title: "Type Basics + Simple Typed Lambda Calculus + Simply Extensions"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/03/30
+  - date: 2026/03/23
+    teacher: 赵海燕
+    slides:
+      - title: "Typed Arithmetic Expressions"
+        link: zhao_ch8_2026.pdf
+      - title: "Simply Typed Lambda-Calculus"
+        link: zhao_ch9_2026.pdf
+      - title: "Simply Extensions"
+        link: zhao_ch11_2026.pdf
+    assignment:
+      descriptions:
+        - text: "8.3.6"
+        - text: "9.3.10"
+        - text: "11.9.1 & 11.12.1"
+      due: 2026/03/30
   # - date: 2026/03/30
   #   teacher: 赵海燕
   #   slides:
