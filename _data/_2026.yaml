@@ -78,6 +78,7 @@ lectures:
     teacher: 王迪
     slides:
       - title: "Recursive Types"
+        link: wang_recursive_types_2026.pdf
     assignment:
       descriptions:
         - text: "Last page of slides"
