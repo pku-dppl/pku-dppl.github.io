@@ -70,25 +70,18 @@ lectures:
         - text: "15.2.5 & 15.5.3"
         - text: "16.1.3 & 16.2.6"
       due: 2026/04/20
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/04/20
-  # - date: 2026/04/20
-  #   teacher: 王迪, 赵海燕
-  #   slides:
-  #     - title: "Project Proposal (+ Midterm Test)"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/04/27
-  # - date: 2026/04/27
-  #   teacher: 王迪
-  #   slides:
-  #     - title: "Recursive Types"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/05/11
+  - date: 2026/04/20
+    teacher: 王迪, 赵海燕
+    slides:
+      - title: "Project Proposal (+ Midterm Test)"
+  - date: 2026/04/27
+    teacher: 王迪
+    slides:
+      - title: "Recursive Types"
+    assignment:
+      descriptions:
+        - text: "Last page of slides"
+      due: 2026/05/11
   # - date: 2026/05/04
   #   teacher: ""
   #   slides:
