@@ -83,22 +83,15 @@ lectures:
       descriptions:
         - text: "The last page of slides"
       due: 2026/05/11
-  # - date: 2026/05/04
-  #   teacher: ""
-  #   slides:
-  #     - title: "May Festival (No class)"
-  #   assignment:
-  #     descriptions:
-  #       - text: "No class"
-  #     due: 2026/05/11
-  # - date: 2026/05/11
-  #   teacher: 王迪
-  #   slides:
-  #     - title: "Variable Types"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/05/18
+  - date: 2026/05/11
+    teacher: 王迪
+    slides:
+      - title: "Variable Types"
+        link: wang_variable_types_2026.pdf
+    assignment:
+      descriptions:
+        - text: "23.5.1 && 23.5.2"
+      due: 2026/05/18
   # - date: 2026/05/18
   #   teacher: 王迪
   #   slides:
