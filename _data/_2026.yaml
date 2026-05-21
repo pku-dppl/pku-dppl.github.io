@@ -92,14 +92,15 @@ lectures:
       descriptions:
         - text: "23.5.1 && 23.5.2"
       due: 2026/05/18
-  # - date: 2026/05/18
-  #   teacher: 王迪
-  #   slides:
-  #     - title: "Type-Level Computation"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/05/25
+  - date: 2026/05/18
+    teacher: 王迪
+    slides:
+      - title: "Variable Types"
+        link: wang_variable_types_2026.pdf
+    assignment:
+      descriptions:
+        - text: "The last question of the last page of slides"
+      due: 2026/05/25
   # - date: 2026/05/25
   #   teacher: 王迪
   #   slides:
