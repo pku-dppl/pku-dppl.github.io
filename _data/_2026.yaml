@@ -101,13 +101,15 @@ lectures:
       descriptions:
         - text: "The last question of the last page of slides"
       due: 2026/05/25
-  # - date: 2026/05/25
-  #   teacher: 王迪
-  #   slides:
-  #     - title: "Type Inference"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
+  - date: 2026/05/25
+    teacher: 王迪
+    slides:
+      - title: "Type-Level Computation"
+        link: wang_type_level_computation_2026.pdf
+    assignment:
+      descriptions:
+        - text: "The last question on the last page of slides"
+      due: 2026/06/01
   #     due: 2026/06/01
   # - date: 2026/06/01
   #   teacher: 王迪
