@@ -110,15 +110,17 @@ lectures:
       descriptions:
         - text: "The last question on the last page of slides"
       due: 2026/06/01
-  #     due: 2026/06/01
-  # - date: 2026/06/01
-  #   teacher: 王迪
-  #   slides:
-  #     - title: "Substructural Types"
-  #   assignment:
-  #     descriptions:
-  #       - text: "TBD"
-  #     due: 2026/06/08
+  - date: 2026/06/01
+    teacher: 王迪
+    slides:
+      - title: "Substructural Types"
+        link: wang_substructural_types_2026.pdf
+      - title: "Type Inference"
+        link: wang_type_inference_2026.pdf
+    assignment:
+      descriptions:
+        - text: "The questions on the last page of Type Inference slides"
+      due: 2026/06/08
   # - date: 2026/06/08
   #   teacher: 王迪
   #   slides:
